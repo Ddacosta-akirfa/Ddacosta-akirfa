@@ -48,12 +48,5 @@
 | 🧠 **Algoritmos** | [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/yourprofile/) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yourprofile) |
 | ✍️ **Blog Tecnológico** | [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourprofile) |
 | 🌱 **Auto desenvolvimento** | Lendo 1 livro por mês sobre produtividade |
-| 💰 **Finance** | Building financial freedom through investing |
 
-###
-
-## 🔥   My Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddacosta-akirfa&show_icons=true&locale=en&layout=compact" alt="ddacosta-akirfa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddacosta-akirfa&show_icons=true&locale=en" alt="ddacosta-akirfa" /></p>
+###<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddacosta-akirfa&show_icons=true&locale=en" alt="ddacosta-akirfa" /></p>
